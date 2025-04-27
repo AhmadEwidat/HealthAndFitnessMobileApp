@@ -33,7 +33,6 @@
 
 - **Java/Kotlin**: The core language for developing the Android app.
 - **SharedPreferences**: Used for storing small sets of data locally, including user preferences, meal logs, and calorie goals.
-- **SQLite**: Can be integrated if more complex data storage is needed in the future.
 - **XML**: Used for designing the app's user interfaces and layouts.
 
 ---
